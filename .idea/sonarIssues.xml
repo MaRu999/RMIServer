@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/RMIServer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/at/fhv/ea/ue1/rupp/IRMIServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/at/fhv/ea/ue1/rupp/MySecurityManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/at/fhv/ea/ue1/rupp/RMIClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/at/fhv/ea/ue1/rupp/RMIServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/at/fhv/ea/ue1/rupp/RMIServer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/at/fhv/ea/ue1/rupp/TestEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Semester5---Project-Enterprise-Computing/client.javafx/client.javafx.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/EARMIClient/src/at/fhv/ea/ue1/client/rupp/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/EARMIClient/src/at/fhv/ea/ue1/client/rupp/MySecurityManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/EARMIClient/src/at/fhv/ea/ue1/client/rupp/RMIClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/EARMIClient/src/at/fhv/ea/ue1/rupp/IRMIServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/EARMIClient/src/at/fhv/ea/ue1/rupp/MySecurityManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/EARMIClient/src/at/fhv/ea/ue1/rupp/RMIClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/EARMIClient/src/at/fhv/ea/ue1/rupp/TestEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/EARMIClient/src/at/fhv/oo/itb17/sem4/webapps/gwt/rupp/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/RMIFactoryServer/src/at/fhv/rmifac/ATM.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/RMIFactoryServer/src/at/fhv/rmifac/ATMFactoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/RMIFactoryServer/src/at/fhv/rmifac/Account.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/RMIFactoryServer/src/at/fhv/rmifac/IATM.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/RMIFactoryServer/src/at/fhv/rmifac/IATMFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/RMIFactoryServer/src/at/fhv/rmifac/IAccount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/RMIFactoryServer/src/at/fhv/rmifac/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/RMIFactoryServer/src/at/fhv/rmifac/MySecurityManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/UE10RMI/src/at/fhv/ss18/itb2_3/oo/ue10/rupp/rmi/FileServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
